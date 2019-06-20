@@ -1,0 +1,16 @@
+[
+{
+  "modid": "timermod",
+  "name": "TimerMod",
+  "description": "asdf",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "milkitic.name",
+  "updateUrl": "",
+  "authorList": ["someone"],
+  "credits": "anotherone",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

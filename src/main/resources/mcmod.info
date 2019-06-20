@@ -1,0 +1,16 @@
+[
+{
+  "modid": "daylilymod",
+  "name": "Daylily Mod",
+  "description": "Daylily",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "csga.xyz",
+  "updateUrl": "",
+  "authorList": ["AltMirrorBell"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
