@@ -1,3 +1,5 @@
+Daylily just passed Turing test, hoyl sh8t
+
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
