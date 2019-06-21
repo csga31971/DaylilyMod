@@ -1,50 +1,29 @@
 {
-  "forge_marker": 1,
-  "defaults": {
-    "model": "cross"
-  },
   "variants": {
-    "age": {
-      "0": {
-        "textures": {
-          "cross": "daylilymod:blocks/daylily/0"
-        }
-      },
-      "1": {
-        "textures": {
-          "cross": "daylilymod:blocks/daylily/1"
-        }
-      },
-      "2": {
-        "textures": {
-          "cross": "daylilymod:blocks/daylily/2"
-        }
-      },
-      "3": {
-        "textures": {
-          "cross": "daylilymod:blocks/daylily/3"
-        }
-      },
-      "4": {
-        "textures": {
-          "cross": "daylilymod:blocks/daylily/4"
-        }
-      },
-      "5": {
-        "textures": {
-          "cross": "daylilymod:blocks/daylily/5"
-        }
-      },
-      "6": {
-        "textures": {
-          "cross": "daylilymod:blocks/daylily/6"
-        }
-      },
-      "7": {
-        "textures": {
-          "cross": "daylilymod:blocks/daylily/7"
-        }
-      }
+    "age=0": {
+      "model": "daylilymod:crop_daylily0"
+    },
+    "age=1": {
+      "model": "daylilymod:crop_daylily1"
+    },
+    "age=2": {
+      "model": "daylilymod:crop_daylily2"
+    },
+    "age=3": {
+      "model": "daylilymod:crop_daylily3"
+    },
+    "age=4": {
+      "model": "daylilymod:crop_daylily4"
+    },
+    "age=5": {
+      "model": "daylilymod:crop_daylily5"
+    },
+    "age=6": {
+      "model": "daylilymod:crop_daylily6"
+    },
+    "age=7": {
+      "model": "daylilymod:crop_daylily7"
     }
   }
+}
 }

@@ -4,13 +4,14 @@ import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.ItemStack;
+import net.minecraft.util.math.AxisAlignedBB;
 import net.minecraft.world.World;
 import xyz.csga.ModItems;
 
 public class ItemCookedDaylily extends ItemFoodBase {
 
     private int tickCount = 0;
-    private int cooldown = 30;
+    private int cooldown = 600;
     public ItemCookedDaylily() {
         super(6, 3, true, "cooked_daylily");
         setCreativeTab(CreativeTabs.FOOD);
